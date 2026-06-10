@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="leo-logo.svg" width="100" height="100" alt="Leo"/>
@@ -6,7 +7,7 @@
 
 <h3>Web Designer & Developer</h3>
 
-<em>Fifteen years. Zero shortcuts.</em>
+<em>Zero shortcuts. Every time.</em>
 
 <br/>
 
@@ -19,7 +20,7 @@
 
 ## About
 
-I’m an independent web designer and developer with **15+ years** of experience building digital products that are fast, precise, and built to last.
+I’m an independent web designer and developer building digital products that are fast, precise, and built to last.
 
 I work directly with founders and brands — no middlemen, no agency overhead. Just clean work delivered on time.
 
